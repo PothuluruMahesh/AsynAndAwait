@@ -1,0 +1,7 @@
+F:\JAVA\C#\AsynAndAwait\AsynAndAwait\bin\Debug\AsynAndAwait.exe.config
+F:\JAVA\C#\AsynAndAwait\AsynAndAwait\bin\Debug\AsynAndAwait.exe
+F:\JAVA\C#\AsynAndAwait\AsynAndAwait\bin\Debug\AsynAndAwait.pdb
+F:\JAVA\C#\AsynAndAwait\AsynAndAwait\obj\Debug\AsynAndAwait.csproj.CoreCompileInputs.cache
+F:\JAVA\C#\AsynAndAwait\AsynAndAwait\obj\Debug\AsynAndAwait.exe
+F:\JAVA\C#\AsynAndAwait\AsynAndAwait\obj\Debug\AsynAndAwait.pdb
+F:\JAVA\C#\AsynAndAwait\AsynAndAwait\obj\Debug\AsynAndAwait.csprojAssemblyReference.cache
